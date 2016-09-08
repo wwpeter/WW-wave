@@ -1,4 +1,8 @@
 # WW-wave
+
+# 效果演示
+
+![images](http://img.blog.csdn.net/20160908132050778?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQv/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/Center)
 # 你需要知道的
 
 ## CADisplayLink
@@ -54,8 +58,8 @@ UIView --> 2个CAShapeLayer --> imageView.frame.orgin.y调整
 
 
 
-更多详细请移步[我的博客](http://qiaotongxin.cc/2016/08/22/20160822/#more)
+更多详细请移步[我的博客](http://write.blog.csdn.net/postlist)
 
-更多详细请移步[我的博客](http://qiaotongxin.cc/2016/08/22/20160822/#more)
+更多详细请移步[我的博客](http://write.blog.csdn.net/postlist)
 
-更多详细请移步[我的博客](http://qiaotongxin.cc/2016/08/22/20160822/#more)
+更多详细请移步[我的博客](http://write.blog.csdn.net/postlist)

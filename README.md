@@ -2,7 +2,7 @@
 
 # 效果演示
 
-![images](http://img.blog.csdn.net/20160908132050778?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQv/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/Center)
+![images](http://img.blog.csdn.net/20160908131901423?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQv/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/Center)
 # 你需要知道的
 
 ## CADisplayLink

@@ -45,7 +45,7 @@ UIView --> 2个CAShapeLayer --> imageView.frame.orgin.y调整
 # 主要代码实现
 ## 头文件
 
-![images](https://raw.githubusercontent.com/Josin22/JSWave/master/Images/code_wave_h.png)
+![images](http://img.blog.csdn.net/20160909085905877?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQv/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/Center)
 
 ##  实现
 
